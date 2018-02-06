@@ -1,0 +1,20 @@
+body {
+    color: black;
+    font-family: Helvetica;
+    background-color: grey;
+    font-weight: bold;
+    
+}
+#multiTable {
+    font-size: 20px;    
+}
+tr {
+    color: white;
+    background-color: red;
+  
+}
+#button {
+    color: white;
+    background-color: red;
+    font-size: 20px;
+}
